@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 LocalChat v3.0 — chat over LAN or internet via playit.gg
-Pure Python stdlib + auto-downloaded playit agent (free, no credit card).
-Usage: python run.py
+Pure Python stdlib + auto-downloaded playit agent
+Usage: python run2.py
 """
 
 import socket
